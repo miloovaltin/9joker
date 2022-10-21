@@ -1,0 +1,16 @@
+{
+"name": "9joker",
+"theme": "9joker",
+"version": "7.2.1",
+"description": "9joker สมัครเว็บพนันเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+"keywords": [
+"9joker",
+"9joker เครดิตฟรี",
+"9joker ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/9joker",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
